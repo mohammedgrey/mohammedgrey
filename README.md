@@ -11,6 +11,7 @@ If you would like to take a look at my tech stack and some of the projects I hav
 
 
 <a href="https://www.linkedin.com/in/mohammeddsaadd" target="blank"><img align="center" src="socials/light/linkedin.png" height="40" width="40" /></a>
+<a href="https://www.facebook.com/mohammeddsaadd" target="blank"><img align="center" src="socials/light/facebook.png" height="40" width="40" /></a>
 <a href="https://api.WhatsApp.com/send?phone=+201157943817&text=Hello Mohammed, " target="blank"><img align="center" src="socials/light/whatsapp.png" height="40" width="40" /></a>
 
 <br/>
