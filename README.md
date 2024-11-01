@@ -23,7 +23,7 @@ If you would like to take a look at my tech stack and some of the projects I hav
 </p>
 
 <p>Email: 
-  <a href="mailto:mohammeddsaadd@yahoo.com">
-    mohammeddsaadd@yahoo.com
+  <a href="mailto:mohammedddawoodd@gmail.com">
+    mohammedddawoodd@gmail.com
   </a>
 </p>
